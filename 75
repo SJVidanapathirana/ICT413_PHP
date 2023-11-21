@@ -1,0 +1,3 @@
+<?php 
+$age=array("Piyumi"=>35,"Nimal"=>"37","Kamal"=>"40");
+?>
